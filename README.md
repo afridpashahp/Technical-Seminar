@@ -1,2 +1,3 @@
 # Technical-Seminar
-VTU Technical SEminar
+VTU Technical Seminar
+City Engineering College
